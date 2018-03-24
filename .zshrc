@@ -1,7 +1,7 @@
 
 # ~/.zshrc
 #
-
+export EDITOR=vim
 # prompt
 #autoload -U colors
 #colors
